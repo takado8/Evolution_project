@@ -1,3 +1,3 @@
 # Evolution project
 - A Basic example of evolution algorithm.
-- One way list implementation in C++.
+- single linked list implementation in C++.
